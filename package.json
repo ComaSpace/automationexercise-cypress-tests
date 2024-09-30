@@ -1,0 +1,15 @@
+{
+  "name": "automationexercise-cypress-tests",
+  "version": "1.0.0",
+  "description": "Cypress tests for Automation Exercise website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rolandas",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
